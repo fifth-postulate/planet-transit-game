@@ -1,2 +1,2 @@
-# planet-transit-game
-Find planet transit parameters
+# Planet Transit Game
+Find planet transit parameters.
